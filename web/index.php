@@ -6,6 +6,9 @@ defined('YII_ENV') or define('YII_ENV', 'dev');
 
 //preuba git
 
+//prueba 2
+
+//dasdasd
 
 require __DIR__ . '/../vendor/autoload.php';
 require __DIR__ . '/../vendor/yiisoft/yii2/Yii.php';
